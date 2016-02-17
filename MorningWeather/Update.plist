@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1.1版本更新</key>
+	<dict>
+		<key>1</key>
+		<string>修正了横屏显示的问题 现在已经禁止程序横屏显示</string>
+		<key>2</key>
+		<string>添加了选择背景图片的功能</string>
+		<key>3</key>
+		<string>优化部分代码</string>
+		<key>4</key>
+		<string>修改了字号 更适合各个屏幕尺寸</string>
+		<key>5</key>
+		<string>修正了无法正确移除通知提醒的问题</string>
+		<key>6</key>
+		<string>添加了点击主屏幕城市可以直接跳转选择城市页面的功能</string>
+		<key>7</key>
+		<string>更新了程序图标的样式</string>
+	</dict>
+	<key>1.2版本更新</key>
+	<dict>
+		<key>1</key>
+		<string>添加了所有文字的阴影 使之在浅色背景中更明显</string>
+		<key>2</key>
+		<string>全面更新App内图标</string>
+		<key>3</key>
+		<string>更新了内置的背景图</string>
+		<key>4</key>
+		<string>向下支持到iOS8.4版本</string>
+	</dict>
+</dict>
+</plist>
