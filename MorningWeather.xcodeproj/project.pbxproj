@@ -337,7 +337,7 @@
 				TargetAttributes = {
 					588938761C30E16F00C4420C = {
 						CreatedOnToolsVersion = 7.0;
-						DevelopmentTeam = KL8C5KFG68;
+						DevelopmentTeam = JQDN52T463;
 					};
 				};
 			};
@@ -346,6 +346,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -578,8 +579,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = JQDN52T463;
 				INFOPLIST_FILE = MorningWeather/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Exile.MorningWeather;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -595,8 +597,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = JQDN52T463;
 				INFOPLIST_FILE = MorningWeather/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Exile.MorningWeather;
 				PRODUCT_NAME = "$(TARGET_NAME)";
